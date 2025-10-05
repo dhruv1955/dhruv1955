@@ -10,8 +10,8 @@
 </p>
 
 <p align="left">
-  <a href="https://x.com/yadav_dhruv2904" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yadav_dhruv2904?logo=twitter&style=for-the-badge" alt="yadav_dhruv2904" />
+  <a href="https://www.linkedin.com/in/dhruv-yadav-10a719286/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Yadav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn - Dhruv Yadav" />
   </a>
 </p>
 
