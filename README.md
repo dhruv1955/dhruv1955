@@ -12,6 +12,7 @@
 
 ## 🧑‍💻 About Me
 
+- 🎓 **3rd Year B.Tech in Engineering Physics – NIT Agartala**
 - 💻 Passionate about Full-Stack Development & Backend Engineering  
 - 🧠 Strong foundation in Data Structures & Algorithms  
 - ⚙️ Interested in System Design & Scalable Architectures  
