@@ -13,11 +13,11 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **3rd Year B.Tech in Engineering Physics – NIT Agartala**
-- 💻 Passionate about Full-Stack Development & Backend Engineering  
-- 🧠 Strong foundation in Data Structures & Algorithms  
-- ⚙️ Interested in System Design & Scalable Architectures  
-- 🌱 Currently exploring DevOps & Cloud Infrastructure  
-- 🎯 Focused on building impactful real-world projects  
+- 💼 **Ex–Full Stack Developer Intern @ Tata Power-DDL**
+- 💻 Passionate about **Full-Stack Development & Backend Engineering**
+- ⚙️ Building applications using **React.js, Node.js, Express, MongoDB, JWT**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🚀 Interested in **scalable systems, system design, and real-world projects**
 
 ---
 
